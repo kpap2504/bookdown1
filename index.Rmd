@@ -1,6 +1,6 @@
 --- 
-title: "YOUR TITLE HERE"
-author: "YOUR NAME HERE"
+title: "Έλληνες Ποιητές"
+author: "kpap2504"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 ---
